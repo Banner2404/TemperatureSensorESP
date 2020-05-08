@@ -1,0 +1,5 @@
+build/
+.vscode/
+certificate.pem.crt
+private.pem.key
+aws-root-ca.pem
