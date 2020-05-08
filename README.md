@@ -1,5 +1,8 @@
-# Hello World Example
+# TemperatureSensor
 
-Starts a FreeRTOS task to print "Hello World"
+This is the ESP32 part of my hobby IoT connected temperature sensor. The app connects to WiFi network and reports temperature to AWS cloud.   
+Technology stack:
+* AWS IoT Core - communication
+* AWS DynamoDB - data storage
 
-See the README.md file in the upper level 'examples' directory for more information about examples.
+![Image](https://raw.githubusercontent.com/Banner2404/TemperatureSensor/master/readme_image.JPG)
