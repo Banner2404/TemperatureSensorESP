@@ -1,4 +1,4 @@
-# TemperatureSensor
+# TemperatureSensorESP
 
 This is the ESP32 part of my hobby IoT connected temperature sensor. The app connects to WiFi network and reports temperature to AWS cloud.   
 Technology stack:
