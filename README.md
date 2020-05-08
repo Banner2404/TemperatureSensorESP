@@ -5,4 +5,6 @@ Technology stack:
 * AWS IoT Core - communication
 * AWS DynamoDB - data storage
 
+💻[macOS app](https://github.com/Banner2404/TemperatureSensorMac), 📱[iOS app](https://github.com/Banner2404/TemperatureSensor)
+
 ![Image](https://raw.githubusercontent.com/Banner2404/TemperatureSensor/master/readme_image.JPG)
